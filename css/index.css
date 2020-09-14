@@ -1,0 +1,46 @@
+
+#sectionTitle { 
+    font-style: bold;
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+
+img {
+    border-radius: 8px;
+    margin:5px;
+}
+
+#name {
+    font-style: bold;
+    font-weight: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#section {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+
+h3 {
+    font-style: italic;
+}
+
+#sectionContent{
+    padding: 15px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+footer{
+    text-align: center;
+    opacity: 0.5;
+}
